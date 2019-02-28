@@ -1,4 +1,4 @@
-# Optimizing energy consumption - From a 'smart-home' perspective 
+# Optimizing energy consumption - 'Smart-home' perspective 
 
 With the rise of IoT, the precision and the real-time feature of the data that is retrieved, in this case submeters can really make **a dent in the energy usage behavior of a household**. 
 
@@ -14,4 +14,9 @@ Moreover, such predictions can be sent to the energy suppliers which in turn can
 _Iot - Real benefits get visible as scale increases!_
 
 
+####File explanation:
+
+- model.R -> code for modeling the time series and forecasting
+- viz.R -> code for visualizations of the dataset
+- app.R -> Shiny app for making the results interactive
 
