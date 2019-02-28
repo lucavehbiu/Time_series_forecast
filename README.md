@@ -1,5 +1,17 @@
-<b> Optimizing energy consumption - From a 'smart-home' perspective <b>
+# Optimizing energy consumption - From a 'smart-home' perspective 
 
-With the rise of IoT, the precision and the real-time feature of the data that is retrieved, in this case submeters can really make a dent in the energy usage behavior of a household. Machine learning algorithms for time series were implemented and the results which have become interactive through a Shiny application teach users how to consume less and more efficiently (less energy losses). Predictions of future energy consumption and usage can be used from the home-builders to better design their houses (thermo-efficient) and more knowledge to the household as to which appliance spends the most for e.g. Moreover, such predictions can be sent to the energy suppliers which in turn can predict their energy demand more accurately. By doing so, they can make up to households for the data gifted to them, by providing accurate prices for the next 48 hours. Such symbiotic relationship between home-builder, energy supplier and household is what will happen frequently in the future, which we more commonly know as Smart-grid Cities.
+With the rise of IoT, the precision and the real-time feature of the data that is retrieved, in this case submeters can really make a dent in the energy usage behavior of a household. 
 
-Iot - Real benefits get visible as scale increases!
+Machine learning algorithms for time series were implemented and the results which have become interactive through a **Shiny** application teach users how to _**consume less** and **more efficiently** (less energy losses)_. 
+
+Predictions of future energy consumption and usage can be used from the home-builders to: 
+
+- Better design their houses (thermo-efficient) 
+- More knowledge to the household as to which appliance spends the most for e.g. 
+
+Moreover, such predictions can be sent to the energy suppliers which in turn can predict their energy demand more accurately. By doing so, they can make up to households for the data gifted to them, by providing accurate prices for the next _48 hours_. Such symbiotic relationship between _home-builder, energy supplier and household_ is what will happen frequently in the future, which we more commonly know as **Smart-grid Cities**.
+
+_Iot - Real benefits get visible as scale increases!_
+
+
+
