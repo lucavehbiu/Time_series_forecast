@@ -14,7 +14,7 @@ Moreover, such predictions can be sent to the energy suppliers which in turn can
 _Iot - Real benefits get visible as scale increases!_
 
 
-####File explanation:
+#### File explanation:
 
 - model.R -> code for modeling the time series and forecasting
 - viz.R -> code for visualizations of the dataset
