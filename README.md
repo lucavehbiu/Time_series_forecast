@@ -1,8 +1,8 @@
 # Optimizing energy consumption - From a 'smart-home' perspective 
 
-With the rise of IoT, the precision and the real-time feature of the data that is retrieved, in this case submeters can really make a dent in the energy usage behavior of a household. 
+With the rise of IoT, the precision and the real-time feature of the data that is retrieved, in this case submeters can really make **a dent in the energy usage behavior of a household**. 
 
-Machine learning algorithms for time series were implemented and the results which have become interactive through a **Shiny** application teach users how to _**consume less** and **more efficiently** (less energy losses)_. 
+Machine learning algorithms for time series _(Fourier,  Holt-Winters and Arima)_ were implemented and the results which have become interactive through a **Shiny** application teach users how to _**consume less** and **more efficiently** (less energy losses)_. 
 
 Predictions of future energy consumption and usage can be used from the home-builders to: 
 
